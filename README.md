@@ -15,14 +15,12 @@ web applications.
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-## ☁ ️Cloud and external tools
+## ☁ ️Development tools
 
 <p align="left">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX-1c6333?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ## 📫 How to reach me
