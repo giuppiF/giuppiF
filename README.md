@@ -7,11 +7,12 @@ I am [Giuseppe](https://www.youtube.com/c/GiuseppeFunicelloo)
 a software developer from 🇮🇹 with a strong interest in
 web applications.
 
-## 🧰 Programming Languages
+## 🧰 Development stack of my ❤️
 
 <p align="left">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
