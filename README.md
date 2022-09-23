@@ -27,5 +27,5 @@ web applications.
 
 ## 📫 How to reach me
 
-- Watch my [YouTube channel](https://www.youtube.com/c/GiuseppeFunicelloo) 📹
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/giuseppe-funicello/) 👨🏻‍💻
+- Watch my [YouTube channel](https://www.youtube.com/c/GiuseppeFunicelloo) 📹
